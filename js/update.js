@@ -19,7 +19,7 @@ function modificar() {
         genero: g,
         autor: a
     }
-    let url = "http://localhost:5000/productos/" + id
+    let url = "https://galeria-de-arte.herokuapp.com/productos/" + id
     var options = {
         body: JSON.stringify(producto),
         method: 'PUT',

@@ -7,7 +7,7 @@ function guardar() {
         genero: g,
         autor: a
     }
-    let url = "http://localhost:5000/productos"
+    let url = "https://galeria-de-arte.herokuapp.com/productos"
     var options = {
         body: JSON.stringify(producto),
         method: 'POST',

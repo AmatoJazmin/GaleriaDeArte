@@ -1,0 +1,181 @@
+{
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/BODEGONES/IB01.jpg",
+                            genero: "Bodegón",
+                            estilo: "Impresionista",
+                            autor: "Ernesto de la Cárcova"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/BODEGONES/IB02.jpg",
+                            genero: "Bodegón",
+                            estilo: "Impresionista",
+                            autor: "Ernesto de la Cárcova"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/BODEGONES/IB03.jpg",
+                            genero: "Bodegón",
+                            estilo: "Impresionista",
+                            autor: "Roberto Azzoni"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/BODEGONES/IB04.jpg",
+                            genero: "Bodegón",
+                            estilo: "Impresionista",
+                            autor: "Fortunato Lacámera"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/BODEGONES/IB05.jpg",
+                            genero: "Bodegón",
+                            estilo: "Impresionista",
+                            autor: "Ernesto de la Cárcova"
+
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/PAISAJES/IP01.jpg",
+                            genero: "Paisaje",
+                            estilo: "Impresionista",
+                            autor: "Martin Malharro"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/PAISAJES/IP02.jpg",
+                            genero: "Paisaje",
+                            estilo: "Impresionista",
+                            autor: "Angel Domingo Vena"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/PAISAJES/IP03.jpg",
+                            genero: "Paisaje",
+                            estilo: "Impresionista",
+                            autor: "Jose Américo Malanca"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/PAISAJES/IP04.jpg",
+                            genero: "Paisaje",
+                            estilo: "Impresionista",
+                            autor: "Carlos Ripamonte"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/PAISAJES/IP05.jpg",
+                            genero: "Paisaje",
+                            estilo: "Impresionista",
+                            autor: "Eduardo Sívori"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/RETRATOS/IR01.jpg",
+                            genero: "Retrato",
+                            estilo: "Impresionista",
+                            autor: "Faustino Brughetti"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/RETRATOS/IR02.png",
+                            genero: "Retrato",
+                            estilo: "Impresionista",
+                            autor: "Fernando Fader"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/RETRATOS/IR03.png",
+                            genero: "Retrato",
+                            estilo: "Impresionista",
+                            autor: "Alfredo Lazzari"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/RETRATOS/IR04.jpg",
+                            genero: "Retrato",
+                            estilo: "Impresionista",
+                            autor: "Walter de Navazio"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/IMPRESIONISMO/RETRATOS/IR05.jpg",
+                            genero: "Retrato",
+                            estilo: "Impresionista",
+                            autor: "Eduardo Sívori"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/RETRATOS/PR01.jpg",
+                            genero: "Retrato",
+                            estilo: "Postimpresionista",
+                            autor: "Emilio Caraffa"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/RETRATOS/PR02.png",
+                            genero: "Retrato",
+                            estilo: "Postimpresionista",
+                            autor: "Pio Collivadino"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/RETRATOS/PR03.webp",
+                            genero: "Retrato",
+                            estilo: "Postimpresionista",
+                            autor: "Emilio Caraffa"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/RETRATOS/PR04.png",
+                            genero: "Retrato",
+                            estilo: "Postimpresionista",
+                            autor: "Cesáreo Bernaldo de Quirós"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/RETRATOS/PR05.png",
+                            genero: "Retrato",
+                            estilo: "Postimpresionista",
+                            autor: "Cesáreo Bernaldo de Quirós"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/BODEGONES/PB01.jpg",
+                            genero: "Bodegón",
+                            estilo: "Postimpresionista",
+                            autor: "Cesáreo Bernaldo de Quirós"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/BODEGONES/PB02.jpg",
+                            genero: "Bodegón",
+                            estilo: "Postimpresionista",
+                            autor: "Carlos Gualberto Giambigi"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/BODEGONES/PB03.jpg",
+                            genero: "Bodegón",
+                            estilo: "Postimpresionista",
+                            autor: "Miguel Carlos Victorica"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/BODEGONES/PB04.png",
+                            genero: "Bodegón",
+                            estilo: "Postimpresionista",
+                            autor: "Miguel Carlos Victorica"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/BODEGONES/PB05.png",
+                            genero: "Bodegón",
+                            estilo: "Postimpresionista",
+                            autor: "Miguel Carlos Victorica"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/PAISAJES/PP01.jpg",
+                            genero: "Paisaje",
+                            estilo: "Postimpresionista",
+                            autor: "Walter de Navazio"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/PAISAJES/PP02.jpg",
+                            genero: "Paisaje",
+                            estilo: "Postimpresionista",
+                            autor: "Carlos Gualberto Giambigi"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/PAISAJES/PP03.jpg",
+                            genero: "Paisaje",
+                            estilo: "Postimpresionista",
+                            autor: "Fernando Fader"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/PAISAJES/PP04.jpg",
+                            genero: "Paisaje",
+                            estilo: "Postimpresionista",
+                            autor: "Alfredo Lazzari"
+                        },
+                        {
+                            src: "./Images/PINTORES ARGENTINOS/POSTIMPRESIONISMO/PAISAJES/PP05.jpg",
+                            genero: "Paisaje",
+                            estilo: "Postimpresionista",
+                            autor: "Martin Malharro"
+                        }
